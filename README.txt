@@ -3,11 +3,9 @@ Current Changes
 Last Update: 12.08.2014
  - Reuploaded the project after fixing a couple of minor bugs
  - Fixed a major bug with multithreading
- 
- Coming Updates
- - Adding Thesis in the scope of which this project was developed
- 
- 
+
+Paper: https://arxiv.org/pdf/1507.05875.pdf
+Full Thesis: https://portal.ikw.uni-osnabrueck.de/en/system/files/01-2015.pdf
  
 +-----------+ 
 |   Usage   |
